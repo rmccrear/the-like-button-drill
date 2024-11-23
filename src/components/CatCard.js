@@ -20,9 +20,11 @@ const CatCard = ({ catData }) => {
         <h2 className="card-title">{catData.name}</h2>
         <p>{description}</p>
         {/*TODO: onClick = increment like */}
-        <button className='btn btn-primary'> 
+        <button type="button"
+                className='btn btn-primary'
+        > 
           ❤️ Like 
-          </button>
+        </button>
       </div>
     </div>
   );
