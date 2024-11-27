@@ -2,7 +2,7 @@
 
 ## Overview
 
-See the musical video for this repository [The Like Button Drill](https://youtu.be/SmYXIBy-D9o?si=OXOq-HfG7Ff11aZ8).
+See the musical video for this repository [The Like Button Drill](https://youtu.be/92VByOqLwp0).
 
 There are two branches in this repository: `main` and `stub`. The `main` branch contains the complete code for the project, while the `stub` branch contains the initial setup with basic components. You can follow the step-by-step guide below to create and refactor a like button feature in a card component.
 
